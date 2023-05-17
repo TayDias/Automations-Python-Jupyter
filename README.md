@@ -21,6 +21,7 @@
 - [Python](https://www.python.org)
 - [Jupyter](https://jupyter.org/install)
 - [Pandas](https://pandas.pydata.org/getting_started.html) 
+- [NumPy](https://numpy.org/doc/stable/) 
 - [Pyautogui](https://pyautogui.readthedocs.io/en/latest/)
 - [Pyperclip](https://pypi.org/project/pyperclip/)
 
