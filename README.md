@@ -1,6 +1,6 @@
 <h1 align="center"> Automações Intensivo de Python - Jupyter</h1>
 
-<p>Automações feitas no intensivo de Python da Hashtag Programação, material fornecido pela equipe e códigos pŕopios desenvolvidos com base no exemplo.</p>
+<p>Automações e análises de dados feitas no intensivo de Python da Hashtag Programação, material fornecido pela equipe e códigos pŕopios desenvolvidos com base no exemplo.</p>
 
 
 # Índice
