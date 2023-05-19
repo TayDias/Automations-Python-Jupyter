@@ -25,6 +25,10 @@
 - [Pyautogui](https://pyautogui.readthedocs.io/en/latest/)
 - [Pyperclip](https://pypi.org/project/pyperclip/)
 - [Plotly](https://plotly.com/)
+- [Matplotlib](https://matplotlib.org)
+- [Seaborn](https://seaborn.pydata.org)
+- [Selenium](https://www.selenium.dev/pt-br/documentation/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
 
 
 # Configuração do ambiente de teste
